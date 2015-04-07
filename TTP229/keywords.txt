@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For TTP229
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+TTP229	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+ReadKey8	KEYWORD2
+GetKey8	KEYWORD2
+ReadKeys8	KEYWORD2
+GetKeys8	KEYWORD2
+ReadKey16	KEYWORD2
+GetKey16	KEYWORD2
+ReadKeys16	KEYWORD2
+GetKeys16	KEYWORD2
+
+
